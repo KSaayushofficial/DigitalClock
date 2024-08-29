@@ -18,7 +18,7 @@ To get started with the Digital Clock project, clone the repository using the fo
 
 2. Navigate to the Project Directory:
 - cd digital-clock
-- 
+  
 3. Open the Project in Your Browser:
 - Open the index.html file in your web browser to view the digital clock in action.
 
