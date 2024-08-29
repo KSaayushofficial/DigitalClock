@@ -14,7 +14,7 @@ HOW TO USE?:
 
 1. Clone the Repository:
 To get started with the Digital Clock project, clone the repository using the following command:
-- git clone https://github.com/yourusername/digital-clock.git
+- git clone https://github.com/KSaayushofficial/digital-clock.git
 
 2. Navigate to the Project Directory:
 - cd digital-clock
